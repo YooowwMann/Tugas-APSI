@@ -20,13 +20,6 @@ Sport X Event adalah platform berbasis web untuk membantu mahasiswa menemukan da
 
 ---
 
-##  Teknologi (Contoh)
-- Frontend: HTML, CSS, JavaScript
-- Backend: FastAPI
-- Database: SQLite / PostgreSQL
-
----
-
 ##  Diagram Sistem
 Menggunakan PlantUML untuk visualisasi proses bisnis.
 
