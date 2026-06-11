@@ -36,10 +36,10 @@ Menggunakan PlantUML untuk visualisasi proses bisnis.
 
 ```bash
 # clone repo
-git clone https://github.com/username/sportx-event.git
+git clone https://github.com/YooowwMann/Tugas-APSI.git
 
 # masuk folder
-cd sportx-event
+cd Tugas-APSI
 
 # jalankan backend
 uvicorn main:app --reload
