@@ -1,0 +1,45 @@
+# Sport X Event - Sistem Event Mahasiswa
+
+##  Deskripsi
+Sport X Event adalah platform berbasis web untuk membantu mahasiswa menemukan dan mengikuti berbagai event kampus dengan mudah.
+
+---
+
+##  Fitur Utama
+
+###  User
+- Melihat daftar event
+- Mencari event
+- Melihat detail event
+- Mendaftar event
+
+###  Admin
+- Login admin
+- CRUD event
+- Melihat peserta
+
+---
+
+##  Teknologi (Contoh)
+- Frontend: HTML, CSS, JavaScript
+- Backend: FastAPI
+- Database: SQLite / PostgreSQL
+
+---
+
+##  Diagram Sistem
+Menggunakan PlantUML untuk visualisasi proses bisnis.
+
+---
+
+##  Cara Menjalankan
+
+```bash
+# clone repo
+git clone https://github.com/username/sportx-event.git
+
+# masuk folder
+cd sportx-event
+
+# jalankan backend
+uvicorn main:app --reload
